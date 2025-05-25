@@ -6,7 +6,6 @@ import {
   Text,
   Input,
   Button,
-  CloseButton,
 } from '@chakra-ui/react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faReply, faTimes } from '@fortawesome/free-solid-svg-icons';
